@@ -1,6 +1,18 @@
 # Genetic-Algorithm-on-TSP
 
 
+### Performance of the population over generations
+This is the graph of populations average performance over generations;
+
+![image](https://user-images.githubusercontent.com/41572446/121981187-7f044080-cd8d-11eb-8da4-2ca916158677.png)
+
+
+This is the graph of populations best individual’s performance over generations;
+
+![image](https://user-images.githubusercontent.com/41572446/121981147-71e75180-cd8d-11eb-98b7-5d32dc8afa9e.png)
+
+
+
 ### Important Operations of the Algorithm
 
 Genetic algorithm mimics the natural process of evolution. In order to represent it, code uses a population and tries to find solution over generations by using natural biologic phenomena such as;
@@ -69,15 +81,6 @@ Parameters in the algorithm are;
 > Also mutation rate is not linked with a direct parameter but stated as 1 so every individual facesmutation but it does not saved with %99 chance if new individual does not has a better fitness.
 
 
-### Performance of the population over generations
-This is the graph of populations average performance over generations;
-
-![image](https://user-images.githubusercontent.com/41572446/121981187-7f044080-cd8d-11eb-8da4-2ca916158677.png)
-
-
-This is the graph of populations best individual’s performance over generations;
-
-![image](https://user-images.githubusercontent.com/41572446/121981147-71e75180-cd8d-11eb-98b7-5d32dc8afa9e.png)
 
 
 
